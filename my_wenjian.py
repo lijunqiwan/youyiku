@@ -9,4 +9,4 @@ str= "jnnnn"
 for i in str:
 print(i)
 nvlinvlinvlikak
-nihao
+nihaonnnnnnn
