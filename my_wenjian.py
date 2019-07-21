@@ -8,4 +8,5 @@ def show():
 str= "jnnnn"
 for i in str:
 print(i)
-nvlinvlinvli
+nvlinvlinvlikak
+nihao
