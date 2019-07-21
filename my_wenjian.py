@@ -5,4 +5,6 @@ def show():
 	i+=1		
 
 
-hhhhh
+str= "jnnnn"
+for i in str:
+print(i)
