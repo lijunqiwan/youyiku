@@ -10,5 +10,5 @@ for i in str:
 print(i)
 
 
-hajajkhjkhkjhfjhss
+hajajkhjkhkjhfjhsdsdsds
 ajhkjahjh
