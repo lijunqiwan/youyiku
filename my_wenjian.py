@@ -10,3 +10,5 @@ for i in str:
 print(i)
 nvlinvlinvlikak
 nihaonnnnnnn
+
+woyaohhhh
