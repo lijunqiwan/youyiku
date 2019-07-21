@@ -8,3 +8,6 @@ def show():
 str= "jnnnn"
 for i in str:
 print(i)
+
+
+hajajkhjkhkjhfjh
